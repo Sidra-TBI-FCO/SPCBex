@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-test this [PCGR report](https://github.com/Sidra-TBI-FCO/spcbex/blob/main/WES_PCB-2021-010-CTD-2021-D-00032.pcgr_acmg.grch37.flexdb.html) 
+CTD-2021-D-00032 [PCGR report](WES_PCB-2021-010-CTD-2021-D-00032.pcgr_acmg.grch37.flexdb.html) 
 
 You can use the [editor on GitHub](https://github.com/Sidra-TBI-FCO/SPCBEX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
