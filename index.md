@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[PCGR report](https://github.com/Sidra-TBI-FCO/spcbex/blob/main/WES_PCB-2021-010-CTD-2021-D-00032.pcgr_acmg.grch37.flexdb.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
