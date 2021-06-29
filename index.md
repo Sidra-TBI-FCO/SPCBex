@@ -1,4 +1,4 @@
-## Welcome to TBI-LAB SPBC Expedited page
+## Welcome to TBI-LAB SPCB Expedited page
 
 ### PCB-2020-005
 #### WES
