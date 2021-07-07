@@ -5,8 +5,7 @@
 * CTD-2020-00004 [PCGR wide report](PCB-2020-005_CTD-2020-00004.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
 
 #### WGS
-* CTD-2020-00004 [PCGR wide report](PCB-2020-005.WGS.PASSED.pcgr_acmg.grch37.flexdb.html)
-* CTD-2020-00004 [PCGR long report]()
+* CTD-2020-00004 [PCGR wide report](PCB-2020-005.WGS.PASSED.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
 <br/><br/> 
 
 ### PCB-2020-006
@@ -16,19 +15,14 @@
 * CTD-2020-00007 [PCGR long report](PCB-2020-006-CTD-2020-00007.pcgr_acmg.grch37.html) 
 
 #### WGS
-* CTD-2020-00005 [PCGR wide report](PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html)
-* CTD-2020-00006 [PCGR wide report](PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html)
-* CTD-2020-00007 [PCGR wide report](PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html)
-* CTD-2020-00005 [PCGR long report]()
-* CTD-2020-00006 [PCGR long report]()
-* CTD-2020-00007 [PCGR long report]()
+* CTD-2020-00005 [PCGR wide report](PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
+* CTD-2020-00006 [PCGR wide report](PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
+* CTD-2020-00007 [PCGR wide report](PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
 <br/><br/>
 
 ### PCB-2020-022 (FFPE)
 #### WES
-* CTD-2020-00018 [PCGR wide report](PCB-2020-022.pcgr_acmg.grch37.flexdb.html)
-* CTD-2020-00018 [PCGR long report]()
-
+* CTD-2020-00018 [PCGR wide report](PCB-2020-022.pcgr_acmg.grch37.flexdb.html) and [PCGR long report]()
 <br/><br/>
 
 ### PCB-2021-010
