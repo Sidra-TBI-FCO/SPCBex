@@ -2,7 +2,7 @@
 
 ### PCB-2020-005
 #### WES
-* CTD-2020-00004
+* CTD-2020-00004 [PCGR report](PCB-2020-005_CTD-2020-00004.pcgr_acmg.grch37.flexdb.html)
 
 #### WGS
 * CTD-2020-00004
