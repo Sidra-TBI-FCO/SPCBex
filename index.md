@@ -5,7 +5,7 @@
 * CTD-2020-00004 [PCGR report](PCB-2020-005_CTD-2020-00004.pcgr_acmg.grch37.flexdb.html)
 
 #### WGS
-* CTD-2020-00004
+* CTD-2020-00004 [PCGR report](PCB-2020-005.WGS.PASSED.pcgr_acmg.grch37.flexdb.html)
 <br/><br/> 
 
 ### PCB-2020-006
@@ -15,9 +15,9 @@
 * CTD-2020-00007 [PCGR report](PCB-2020-006-CTD-2020-00007.pcgr_acmg.grch37.html) 
 
 #### WGS
-* CTD-2020-00005
-* CTD-2020-00006
-* CTD-2020-00007
+* CTD-2020-00005 [PCGR report](PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html)
+* CTD-2020-00006 [PCGR report](PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html)
+* CTD-2020-00007 [PCGR report](PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html)
 <br/><br/>
 
 ### PCB-2020-022 (FFPE)
