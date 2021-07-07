@@ -22,7 +22,7 @@
 
 ### PCB-2020-022 (FFPE)
 #### WES
-* CTD-2020-00018
+* CTD-2020-00018 [PCGR report](PCB-2020-022.pcgr_acmg.grch37.flexdb.html)
 <br/><br/>
 
 ### PCB-2021-010
