@@ -10,14 +10,13 @@
 
 ### PCB-2020-006
 #### WES
-* CTD-2020-00005 [PCGR wide report]() and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00005.pcgr_acmg.grch37.html)
-* CTD-2020-00006 [PCGR wide report]() and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00006.pcgr_acmg.grch37.html)
-* CTD-2020-00007 [PCGR wide report]() and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00007.pcgr_acmg.grch37.html)
-
+* CTD-2020-00005 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/2020-006-CTD-2020-00005.pcgr_acmg.grch37.flexdb.html) 
+* CTD-2020-00006 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00006.pcgr_acmg.grch37.flexdb.html)
+* CTD-2020-00007 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/2020-006-CTD-2020-00007.pcgr_acmg.flexdb.grch37.html) 
 #### WGS
-* CTD-2020-00005 [PCGR wide report](PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.html)
-* CTD-2020-00006 [PCGR wide report](PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.html)
-* CTD-2020-00007 [PCGR wide report](PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html) and [PCGR long report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.html)
+* CTD-2020-00005 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html) 
+* CTD-2020-00006 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html) 
+* CTD-2020-00007 [PCGR wide report](https://github.com/Sidra-TBI-FCO/SPCBex/blob/gh-pages/PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html) 
 <br/><br/>
 
 ### PCB-2020-022 (FFPE)
