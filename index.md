@@ -14,7 +14,7 @@
 * CTD-2020-00006 [PCGR wide report](PCB-2020-006-CTD-2020-00006_WES-PASSED_mutect_strelka2.pcgr_acmg.grch37.flexdb.html)
 * CTD-2020-00007 [PCGR wide report](PCB-2020-006-CTD-2020-00007.WES-PASSED_fp.filter_mutect_strelka2.pcgr_acmg.grch37.flexdb.html) 
 #### WGS
-* CTD-2020-00005 [PCGR wide report](PCB-2020-006-CTD-2020-00005_WGS.pcgr_acmg.grch37.flexdb.html) 
+* CTD-2020-00005 [PCGR wide report](PCB-2020-006-CTD-2020-00005.pcgr_acmg.grch37.html) 
 * CTD-2020-00006 [PCGR wide report](PCB-2020-006-CTD-2020-00006_WGS.pcgr_acmg.grch37.flexdb.html) 
 * CTD-2020-00007 [PCGR wide report](PCB-2020-006-CTD-2020-00007_WGS.pcgr_acmg.grch37.flexdb.html) 
 <br/><br/>
