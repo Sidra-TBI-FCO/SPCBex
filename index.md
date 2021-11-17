@@ -36,3 +36,7 @@
 * CTD-2021-D-00040 [PCGR wide report](WES_PCB-2021-010-CTD-2021-D-00040.pcgr_acmg.grch37.flexdb.html) 
 <br/><br/>
 
+### PCB-2021-039
+#### WES
+* CTD-2021-D-00128_129_130_131 [PCGR wide report](WES_PCB-2021-039.pcgr_acmg.grch37.flexdb.html)
+* CTD-2021-D-00128_129_130_131 [PCGR long report](WES_PCB-2021-039.pcgr_acmg.grch37.html)
