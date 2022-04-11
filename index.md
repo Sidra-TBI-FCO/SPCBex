@@ -46,4 +46,3 @@
 #### WGS
 * CTD-2020-00020 [PCGR wide report](WGS_PCB-2020-20-CTD.pcgr_acmg.grch37.flexdb.html)
 * CTD-2020-00020 [PCGR long report](WGS_PCB-2020-20-CTD.pcgr_acmg.grch37.html)
-<br/><br/>
