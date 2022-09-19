@@ -48,3 +48,8 @@
 * CTD-2020-00020 [PCGR long report](WGS_PCB-2020-20-CTD.pcgr_acmg.grch37.html)
 * CTD-2022-00135-00136-00137-00138 - Relapsed [PCGR wide report](WGS_PCB-2020-020-CTD-2022R.pcgr_acmg.grch37.flexdb.html)
 * CTD-2022-00135-00136-00137-00138 - Relapsed [PCGR long report](WGS_PCB-2020-020-CTD-2022R.pcgr_acmg.grch37.html)
+
+### PCB-2022-000024
+#### WGS
+* CRS-FRF-2022-00160.01 [PCGR wide report](CRS-FRF-2022-00160.01.pcgr_acmg.grch37.flexdb.html)
+* CRS-FRF-2022-00160.01 [PCGR long report](CRS-FRF-2022-00160.01.pcgr_acmg.grch37.html)
