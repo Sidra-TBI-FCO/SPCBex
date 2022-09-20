@@ -53,3 +53,8 @@
 #### WGS
 * CRS-FRF-2022-00160.01 [PCGR wide report](CRS-FRF-2022-00160.01.pcgr_acmg.grch37.flexdb.html)
 * CRS-FRF-2022-00160.01 [PCGR long report](CRS-FRF-2022-00160.01.pcgr_acmg.grch37.html)
+
+### PCB-2022-000020
+#### WGS
+* CRS-FRF-2022-00137.01 [PCGR wide report](CRS-FRF-2022-00137.01.pcgr_acmg.grch37.flexdb.html)
+* CRS-FRF-2022-00137.01 [PCGR long report](CRS-FRF-2022-00137.01.pcgr_acmg.grch37.html)
