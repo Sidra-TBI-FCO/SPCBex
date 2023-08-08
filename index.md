@@ -58,3 +58,20 @@
 #### WGS
 * CRS-FRF-2022-00137.01 [PCGR wide report](CRS-FRF-2022-00137.01.pcgr_acmg.grch37.flexdb.html)
 * CRS-FRF-2022-00137.01 [PCGR long report](CRS-FRF-2022-00137.01.pcgr_acmg.grch37.html)
+
+### PCB-2021-000033 (SPID2022640170)
+#### WGS
+* CRS-FRF-2023-00003.01 [PCGR wide report](SPID2022640170_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-FRF-2023-00003.01 [PCGR long report](SPID2022640170_PT.pcgr_acmg.grch38.html)
+
+### PCB-2022-000041 (SPID2022580465)
+#### WGS
+* CRS-FRF-2023-00001.01 [PCGR wide report](SPID2022580465_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-FRF-2023-00001.01 [PCGR long report](SPID2022580465_PT.pcgr_acmg.grch38.html)
+
+### PCB-2023-000030
+#### WGS
+* Under processing
+
+
+
