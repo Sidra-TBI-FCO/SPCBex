@@ -75,8 +75,8 @@
 
 ### PCB-2023-000030 (SPID2023970078)
 #### WGS
-* CRS-FRF-2023-00014.02 [PCGR wide report]()
-* CRS-FRF-2023-00014.02 [PCGR long report]()
+* CRS-FRF-2023-00014.02 
+* CRS-FRF-2023-00014.02
 #### RNAseq
 * CRS-FRF-2023-00014.01 [Fusion genes report](PCB-2023-000030_fusion.html)
 
