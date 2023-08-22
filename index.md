@@ -63,15 +63,20 @@
 #### WGS
 * CRS-FRF-2023-00003.01 [PCGR wide report](SPID2022640170_PT.pcgr_acmg.grch38.flexdb.html)
 * CRS-FRF-2023-00003.01 [PCGR long report](SPID2022640170_PT.pcgr_acmg.grch38.html)
+#### RNAseq
+* CRS-FRF-2023-00004.01 [Fusion genes report](SPR-PCB-CNS-P0017_fusion.html)
 
 ### PCB-2022-000041 (SPID2022580465) (SPR-PCB-CNS-P0046)
 #### WGS
 * CRS-FRF-2023-00001.01 [PCGR wide report](SPID2022580465_PT.pcgr_acmg.grch38.flexdb.html)
 * CRS-FRF-2023-00001.01 [PCGR long report](SPID2022580465_PT.pcgr_acmg.grch38.html)
+#### RNAseq
+* CRS-FRF-2023-00002.01 [Fusion genes report](SPR-PCB-CNS-P0046_fusion.html)
 
 ### PCB-2023-000030 (SPID2023970078)
 #### WGS
-* Under processing
-
-
+* CRS-FRF-2023-00014.02 [PCGR wide report](SPID2023970078_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-FRF-2023-00014.02 [PCGR long report](SPID2023970078_PT.pcgr_acmg.grch38.html)
+#### RNAseq
+* CRS-FRF-2023-00014.01 [Fusion genes report](PCB-2023-000030_fusion.html)
 
