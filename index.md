@@ -80,3 +80,8 @@
 #### RNAseq
 * CRS-FRF-2023-00014.01 [Fusion genes report](PCB-2023-000030_fusion.html)
 
+### PCB-2023-000032 (SPR-PCB-CNS-P0059)
+#### WGS
+* CRS-FRF-2023-00019.01 [PCGR wide report](SPR-PCB-CNS-P0059_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-FRF-2023-00019.01 [PCGR long report](SPR-PCB-CNS-P0059_PT.pcgr_acmg.grch38.html)
+#### RNAseq
