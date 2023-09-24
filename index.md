@@ -84,5 +84,5 @@
 #### WGS
 * CRS-FRF-2023-00019.01 [PCGR wide report](SPR-PCB-CNS-P0059_PT.pcgr_acmg.grch38.flexdb.html)
 * CRS-FRF-2023-00019.01 [PCGR long report](SPR-PCB-CNS-P0059_PT.pcgr_acmg.grch38.html)
-#### RNAseq
-Under process
+#### RNAseq 
+CRS-FRF-2023-00019.02 [Fusion genes report](PCB-2023-000032/SPR-PCB-CNS-P0059-PT-04-F-R-01.html)
