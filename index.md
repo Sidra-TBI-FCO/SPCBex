@@ -6,6 +6,7 @@
 
 #### WGS
 * CTD-2020-00004 [PCGR wide report](PCB-2020-005.WGS.PASSED.pcgr_acmg.grch37.flexdb.html)
+* CTD-2020-00004 [CPSR report](WGS_PCB-2020-005-BLD-2020-00354.cpsr.grch38.html)
 <br/><br/> 
 
 ### PCB-2020-006
