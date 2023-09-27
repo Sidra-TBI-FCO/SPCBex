@@ -1,0 +1,1 @@
+{"id":"fusion_genes","section_name":"Fusion genes","description":"Number of fusion genes found by various tools","plot_type":"bargraph","pconfig":{"id":"barplot_config_only","title":"Detected fusion genes","ylab":"Number of detected fusion genes"},"data":{"SPR-PCB-SAR-P0001-PT-09-F-R-01":{"FusionGDB":2}}}
