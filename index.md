@@ -90,6 +90,20 @@
 #### RNAseq 
 CRS-FRF-2023-00019.02 [Fusion genes report](PCB-2023-000032/SPR-PCB-CNS-P0059-PT-04-F-R-01.html)
 
+### PCB-2023-000035 (SPR-PCB-NBL-P0012)
+#### WGS
+* CRS-DNA-2023-00059.01 [PCGR wide report](SPR-PCB-NBL-P0012_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-DNA-2023-00059.01 [PCGR long report](SPR-PCB-NBL-P0012_PT.pcgr_acmg.grch38.html)
+#### RNAseq 
+Under process
+
+### PCB-2023-000036 (SPR-PCB-CNS-P0062)
+#### WGS
+* CRS-DNA-2023-00062.01 [PCGR wide report](SPR-PCB-CNS-P0062_PT.pcgr_acmg.grch38.flexdb.html)
+* CRS-DNA-2023-00062.01 [PCGR long report](SPR-PCB-CNS-P0062_PT.pcgr_acmg.grch38.html)
+#### RNAseq 
+Under process
+
 
 # Example of Methylation classifier for CNS high grade tumor
 * MNP classifier [Report](206522890058_R06C01_report_website_mnp_brain_v12.8_sample_1.1_1588156.pdf)
